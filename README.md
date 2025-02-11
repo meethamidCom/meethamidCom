@@ -1,4 +1,4 @@
-Hi 👋 My name is Hamid
+Hi 👋
 ======================
 
 I'm a Growth Consultant
